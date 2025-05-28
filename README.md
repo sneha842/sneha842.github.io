@@ -7,7 +7,7 @@
 ---
 
 ### 🛠️ Skills  
-- Python | SQL | Excel | Pandas | NumPy  
+- Python | SQL | Excel | Pandas | NumPy | C | C++  
 - GUI Development (in progress)  
 - Web basics: HTML, CSS  
 
