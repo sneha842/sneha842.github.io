@@ -1,6 +1,6 @@
 # Hi there! 👋 I'm Sneha Srivastava
 
-🎓 BCA Student | Aspiring Data Analyst  
+🎓 BCA Student | Aspiring Data Scientist 
 💻 Currently building projects like Calculator and To-Do List (GUI in progress)  
 🌱 Learning Python, Data Analysis, and Machine Learning
 
